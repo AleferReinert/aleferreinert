@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá, meu nome é Alefer Reinert
 
-<!--
-**AleferReinert/aleferreinert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor front-end, atualmente estudando React. :)
 
-Here are some ideas to get you started:
+![Alefer Reinert GitHub stats](https://github-readme-stats.vercel.app/api?username=aleferreinert&hide=prs,issues,contribs&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleferreinert&layout=compact&langs_count=5&hide=php,c)
+
+## Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleferreinert@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleferreinert)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/FSN72FDKNRO3O1)

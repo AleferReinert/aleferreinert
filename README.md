@@ -1,10 +1,14 @@
 # Olá, meu nome é Alefer Reinert!
 
-Desenvolvedor front-end com mais de 8 anos de experiência em aplicações web responsivas. Possui habilidades em React, Next.js, TypeScript, Tailwind, Storybook e Testing Library. Atuou em diversos sites e e-commerces, além de projetos pessoais, sempre estudando e buscando evoluir constantemente.
+Com mais de 8 anos experiência, desenvolvo sites e e-commerces utilizando as tecnologias mais atuais, focando em desempenho, acessibilidade e experiência do usuário.
+Minhas principais habilidades incluem:
+React, Next.js, TypeScript, Tailwind, Storybook e Testing Library.
 
-![Alefer Reinert GitHub stats](https://github-readme-stats.vercel.app/api?username=aleferreinert&hide=prs,issues,contribs&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleferreinert&hide=prs,contribs&show_icons=true&theme=vue&custom_title=Estatísticas%20do%20Github&locale=pt-br&rank_icon=github)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleferreinert&layout=compact&langs_count=5&hide=php,c)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleferreinert&langs_count=5&hide=php,c,jupyter%20notebook&theme=vue&locale=pt-br)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleferreinert&theme=vue&locale=pt-br)
 
 ## Contato
 

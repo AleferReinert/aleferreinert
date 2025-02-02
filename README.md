@@ -1,7 +1,6 @@
 # Olá, meu nome é Alefer Reinert!
 
-Com mais de 8 anos experiência, desenvolvo sites e e-commerces utilizando as tecnologias mais atuais, focando em desempenho, acessibilidade e experiência do usuário.
-Minhas principais habilidades incluem:
+Sou desenvolvedor front-end e minhas principais habilidades são
 React, Next.js, TypeScript, Tailwind, Storybook e Testing Library.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleferreinert&hide=prs,contribs&show_icons=true&theme=vue&custom_title=Estatísticas%20do%20Github&locale=pt-br&rank_icon=github)

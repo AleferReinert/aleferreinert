@@ -8,6 +8,7 @@ React, Next.js, TypeScript, Tailwind, Storybook e Testing Library.
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleferreinert&langs_count=5&hide=php,c,jupyter%20notebook&theme=vue&locale=pt-br)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleferreinert)](https://github.com/anuraghazra/github-readme-stats)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleferreinert&theme=vue&locale=pt-br)
 
 <!--START_SECTION:waka-->
@@ -17,6 +18,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/38979235-41b3-49f4-8f17-7def5d04f3d2.svg?style=for-the-badge)](https://wakatime.com/@38979235-41b3-49f4-8f17-7def5d04f3d2)
 
 ## Contato
 

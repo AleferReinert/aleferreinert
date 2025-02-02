@@ -10,6 +10,9 @@ React, Next.js, TypeScript, Tailwind, Storybook e Testing Library.
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleferreinert&theme=vue&locale=pt-br)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleferreinert@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleferreinert) [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-00344a?style=for-the-badge)](https://aleferreinert.vercel.app) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547999558118) 

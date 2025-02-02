@@ -11,6 +11,11 @@ React, Next.js, TypeScript, Tailwind, Storybook e Testing Library.
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleferreinert&theme=vue&locale=pt-br)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Contato

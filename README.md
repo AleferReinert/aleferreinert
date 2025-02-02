@@ -1,11 +1,16 @@
 # Olá, meu nome é Alefer Reinert!
 
-Sou desenvolvedor front-end e minhas principais habilidades são
-React, Next.js, TypeScript, Tailwind, Storybook e Testing Library.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleferreinert&hide=prs,contribs&show_icons=true&theme=vue&custom_title=Estatísticas%20do%20Github&locale=pt-br&rank_icon=github)
+Sou desenvolvedor front-end e minhas principais habilidades são:
+- React
+- Next.js
+- TypeScript
+- Tailwind
+- Storybook
+- Testing Library
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleferreinert&langs_count=5&hide=php,c,jupyter%20notebook&theme=vue&locale=pt-br)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleferreinert&hide=prs,contribs&show_icons=true&theme=vue&custom_title=Estatísticas%20do%20Github&locale=pt-br&rank_icon=github)
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleferreinert&theme=vue&locale=pt-br&v=2)
 
@@ -16,7 +21,9 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+<!--
 [![wakatime](https://wakatime.com/badge/user/38979235-41b3-49f4-8f17-7def5d04f3d2.svg?style=for-the-badge)](https://wakatime.com/@38979235-41b3-49f4-8f17-7def5d04f3d2)
+-->
 
 ## Contato
 

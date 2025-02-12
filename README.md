@@ -1,6 +1,10 @@
 # Alefer Reinert
 Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**, **TypeScript**, **Tailwind**, **Storybook** e **Testing Library**.
 
+### Skills  
+![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=156EB0)  ![JavaScript](https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript)  ![React](https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react)  ![Next.js](https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=nextdotjs&logoColor=000)  ![Tailwind](https://img.shields.io/badge/Tailwind-fff?style=for-the-badge&logo=tailwindcss)  ![Styled Components](https://img.shields.io/badge/Styled%20Components-fff?style=for-the-badge&logo=styled-components) ![Storybook](https://img.shields.io/badge/Storybook-fff?style=for-the-badge&logo=storybook)  ![TestingLibrary](https://img.shields.io/badge/Testing%20Library-fff?style=for-the-badge&logo=testing-library)  ![Git](https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=git)  ![Strapi](https://img.shields.io/badge/Strapi-fff?style=for-the-badge&logo=strapi&logoColor=4945FF)  ![GraphQL](https://img.shields.io/badge/GraphQL-fff?style=for-the-badge&logo=graphql&logoColor=EE1E92)  ![Apollo](https://img.shields.io/badge/Apollo-fff?style=for-the-badge&logo=apollographql&logoColor=102A47)  ![LESS](https://img.shields.io/badge/LESS-fff?style=for-the-badge&logo=less)  ![Gulp](https://img.shields.io/badge/Gulp-fff?style=for-the-badge&logo=gulp)  ![Figma](https://img.shields.io/badge/Figma-fff?style=for-the-badge&logo=figma)  ![Photoshop](https://img.shields.io/badge/Photoshop-fff?style=for-the-badge&logo=adobephotoshop)
+
+
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=aleferreinert&hide=prs,contribs&show_icons=true&theme=vue&custom_title=Estatísticas%20Github&locale=pt-br&rank_icon=github) 
 

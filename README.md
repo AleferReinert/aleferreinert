@@ -4,22 +4,22 @@ Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**
 
 ## Habilidades
 ###### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=156EB0)  ![JavaScript](https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=typescript)  ![React](https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react)  ![Next.js](https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=nextdotjs&logoColor=000)  ![Tailwind](https://img.shields.io/badge/Tailwind-fff?style=for-the-badge&logo=tailwindcss)  ![Styled Components](https://img.shields.io/badge/Styled%20Components-fff?style=for-the-badge&logo=styled-components)  ![Git](https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=git) ![LESS](https://img.shields.io/badge/LESS-fff?style=for-the-badge&logo=less&logoColor=1D365D)  ![Gulp](https://img.shields.io/badge/Gulp-fff?style=for-the-badge&logo=gulp)  
+![HTML5](https://img.shields.io/badge/HTML5-f5f5f5?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-f5f5f5?style=for-the-badge&logo=css3&logoColor=156EB0)  ![JavaScript](https://img.shields.io/badge/JavaScript-f5f5f5?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/TypeScript-f5f5f5?style=for-the-badge&logo=typescript)  ![React](https://img.shields.io/badge/React-f5f5f5?style=for-the-badge&logo=react)  ![Next.js](https://img.shields.io/badge/Next.js-f5f5f5?style=for-the-badge&logo=nextdotjs&logoColor=000)  ![Tailwind](https://img.shields.io/badge/Tailwind-f5f5f5?style=for-the-badge&logo=tailwindcss)  ![Styled Components](https://img.shields.io/badge/Styled%20Components-f5f5f5?style=for-the-badge&logo=styled-components)  ![Git](https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git) ![LESS](https://img.shields.io/badge/LESS-f5f5f5?style=for-the-badge&logo=less&logoColor=1D365D)  ![Gulp](https://img.shields.io/badge/Gulp-f5f5f5?style=for-the-badge&logo=gulp)  
 
 ###### Back-end
-![Strapi](https://img.shields.io/badge/Strapi-fff?style=for-the-badge&logo=strapi&logoColor=4945FF)  ![GraphQL](https://img.shields.io/badge/GraphQL-fff?style=for-the-badge&logo=graphql&logoColor=EE1E92)  ![Apollo](https://img.shields.io/badge/Apollo-fff?style=for-the-badge&logo=apollographql&logoColor=102A47)  
+![Strapi](https://img.shields.io/badge/Strapi-f5f5f5?style=for-the-badge&logo=strapi&logoColor=4945FF)  ![GraphQL](https://img.shields.io/badge/GraphQL-f5f5f5?style=for-the-badge&logo=graphql&logoColor=EE1E92)  ![Apollo](https://img.shields.io/badge/Apollo-f5f5f5?style=for-the-badge&logo=apollographql&logoColor=102A47)  
 
 ###### Componentes e testes
-![Storybook](https://img.shields.io/badge/Storybook-fff?style=for-the-badge&logo=storybook)  ![TestingLibrary](https://img.shields.io/badge/Testing%20Library-fff?style=for-the-badge&logo=testing-library)
+![Storybook](https://img.shields.io/badge/Storybook-f5f5f5?style=for-the-badge&logo=storybook)  ![TestingLibrary](https://img.shields.io/badge/Testing%20Library-f5f5f5?style=for-the-badge&logo=testing-library)
 
 ###### Softwares
-![Figma](https://img.shields.io/badge/Figma-fff?style=for-the-badge&logo=figma) ![Photoshop](https://img.shields.io/badge/Photoshop-fff?style=for-the-badge&logo=piapro&logoColor=001D34)
+![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=for-the-badge&logo=figma) ![Photoshop](https://img.shields.io/badge/Photoshop-f5f5f5?style=for-the-badge&logo=piapro&logoColor=001D34)
 
 ###### Boas práticas
-![Acessibilidade](https://img.shields.io/badge/Acessibilidade-fff?style=for-the-badge)
-![Clean code](https://img.shields.io/badge/Clean%20code-fff?style=for-the-badge)
-![Refatoração](https://img.shields.io/badge/Refatoração-fff?style=for-the-badge)
-![Responsividade](https://img.shields.io/badge/Responsividade-fff?style=for-the-badge)
+![Acessibilidade](https://img.shields.io/badge/Acessibilidade-f5f5f5?style=for-the-badge)
+![Clean code](https://img.shields.io/badge/Clean%20code-f5f5f5?style=for-the-badge)
+![Refatoração](https://img.shields.io/badge/Refatoração-f5f5f5?style=for-the-badge)
+![Responsividade](https://img.shields.io/badge/Responsividade-f5f5f5?style=for-the-badge)
 
 ## Atividades recentes
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=aleferreinert&hide=prs,contribs&show_icons=true&theme=vue&custom_title=Github&locale=pt-br&rank_icon=github) 

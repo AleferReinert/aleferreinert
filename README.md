@@ -1,5 +1,5 @@
 # Alefer Reinert
-Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**, **TypeScript**, **Tailwind**, **Storybook** e **Testing Library**.
+Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**, **TypeScript**, **Tailwind**, **Storybook**, **Testing Library**, **GraphQL** e **Strapi**.
 
 
 ## Habilidades
@@ -32,4 +32,4 @@ Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**
 
 ## Contato
 
-[![Currículo](https://img.shields.io/badge/currículo-273849?style=for-the-badge)](https://drive.google.com/file/d/1rl5BEI5eoqREjQUh37iKNULMQAFPRAx0/view) [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-00344a?style=for-the-badge)](https://aleferreinert.vercel.app)  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:aleferreinert@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleferreinert)  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge)](https://wa.me/5547999558118)  
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-00344a?style=for-the-badge)](https://aleferreinert.vercel.app) [![Currículo](https://img.shields.io/badge/currículo-273849?style=for-the-badge)](https://drive.google.com/file/d/1rl5BEI5eoqREjQUh37iKNULMQAFPRAx0/view)  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:aleferreinert@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleferreinert)  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge)](https://wa.me/5547999558118)  

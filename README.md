@@ -10,7 +10,7 @@ Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**
 ![Strapi](https://img.shields.io/badge/Strapi-f5f5f5?style=for-the-badge&logo=strapi&logoColor=4945FF)  ![GraphQL](https://img.shields.io/badge/GraphQL-f5f5f5?style=for-the-badge&logo=graphql&logoColor=EE1E92)  ![Apollo](https://img.shields.io/badge/Apollo-f5f5f5?style=for-the-badge&logo=apollographql&logoColor=102A47)  
 
 ###### Componentes e testes
-![Storybook](https://img.shields.io/badge/Storybook-f5f5f5?style=for-the-badge&logo=storybook)  ![TestingLibrary](https://img.shields.io/badge/Testing%20Library-f5f5f5?style=for-the-badge&logo=testing-library)
+![Storybook](https://img.shields.io/badge/Storybook-f5f5f5?style=for-the-badge&logo=storybook)  ![TestingLibrary](https://img.shields.io/badge/Testing%20Library-f5f5f5?style=for-the-badge&logo=testing-library) ![Cypress](https://img.shields.io/badge/Cypress-f5f5f5?style=for-the-badge&logo=cypress)
 
 ###### Softwares
 ![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=for-the-badge&logo=figma) ![Photoshop](https://img.shields.io/badge/Photoshop-f5f5f5?style=for-the-badge&logo=piapro&logoColor=001D34)

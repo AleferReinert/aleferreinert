@@ -1,5 +1,5 @@
 # Alefer Reinert
-Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**, **TypeScript**, **Tailwind**, **Storybook**, **Testing Library**, **GraphQL** e **Strapi**.
+Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**, **TypeScript**, **Tailwind**, **Storybook**, **Testing Library**, **GraphQL**, **Cypress** e **Strapi**.
 
 
 ## Habilidades

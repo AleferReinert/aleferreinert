@@ -12,6 +12,9 @@ Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**
 ###### Componentes e testes
 ![Storybook](https://img.shields.io/badge/Storybook-f5f5f5?style=for-the-badge&logo=storybook)  ![TestingLibrary](https://img.shields.io/badge/Testing%20Library-f5f5f5?style=for-the-badge&logo=testing-library) ![Cypress](https://img.shields.io/badge/Cypress-f5f5f5?style=for-the-badge&logo=cypress)
 
+###### DevOps
+![Docker](https://img.shields.io/badge/Docker-f5f5f5?style=for-the-badge&logo=docker)  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-f5f5f5?style=for-the-badge&logo=github-actions) 
+
 ###### Softwares
 ![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=for-the-badge&logo=figma) ![Photoshop](https://img.shields.io/badge/Photoshop-f5f5f5?style=for-the-badge&logo=piapro&logoColor=001D34)
 

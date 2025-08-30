@@ -24,10 +24,10 @@ Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**
 ![Refatoração](https://img.shields.io/badge/Refatoração-f5f5f5?style=for-the-badge)
 ![Responsividade](https://img.shields.io/badge/Responsividade-f5f5f5?style=for-the-badge)
 
-## Atividades
+## Atividades recentes
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=aleferreinert&hide=prs,contribs&show_icons=true&theme=vue&custom_title=Github&locale=pt-br&rank_icon=github) 
 
-![Estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aleferreinert&theme=vue&locale=pt-br&v=2&custom_title=WakaTime)
+![Estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aleferreinert&theme=vue&locale=pt-br&v=2&custom_title=WakaTime%20(Últimos%207%20dias))
 
 <!--
 [![wakatime](https://wakatime.com/badge/user/38979235-41b3-49f4-8f17-7def5d04f3d2.svg?style=for-the-badge&&v=1)](https://wakatime.com/@38979235-41b3-49f4-8f17-7def5d04f3d2)

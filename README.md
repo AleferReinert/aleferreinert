@@ -4,19 +4,38 @@ Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**
 
 ## Habilidades
 ###### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-f5f5f5?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-f5f5f5?style=for-the-badge&logo=css3&logoColor=156EB0)  ![JavaScript](https://img.shields.io/badge/JavaScript-f5f5f5?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/TypeScript-f5f5f5?style=for-the-badge&logo=typescript)  ![React](https://img.shields.io/badge/React-f5f5f5?style=for-the-badge&logo=react)  ![Next.js](https://img.shields.io/badge/Next.js-f5f5f5?style=for-the-badge&logo=nextdotjs&logoColor=000)  ![Tailwind](https://img.shields.io/badge/Tailwind-f5f5f5?style=for-the-badge&logo=tailwindcss)  ![Styled Components](https://img.shields.io/badge/Styled%20Components-f5f5f5?style=for-the-badge&logo=styled-components)  ![Git](https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git) ![LESS](https://img.shields.io/badge/LESS-f5f5f5?style=for-the-badge&logo=less&logoColor=1D365D)  ![Gulp](https://img.shields.io/badge/Gulp-f5f5f5?style=for-the-badge&logo=gulp)  
+![HTML5](https://img.shields.io/badge/HTML5-f5f5f5?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-f5f5f5?style=for-the-badge&logo=css&logoColor=156EB0)
+![JavaScript](https://img.shields.io/badge/JavaScript-f5f5f5?style=for-the-badge&logo=javascript&logoColor=DD9C24)
+![TypeScript](https://img.shields.io/badge/TypeScript-f5f5f5?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-f5f5f5?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-f5f5f5?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-f5f5f5?style=for-the-badge&logo=expo&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-f5f5f5?style=for-the-badge&logo=nextdotjs&logoColor=000)
+![Tailwind](https://img.shields.io/badge/Tailwind-f5f5f5?style=for-the-badge&logo=tailwindcss)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-f5f5f5?style=for-the-badge&logo=styled-components)
+![Git](https://img.shields.io/badge/Git-f5f5f5?style=for-the-badge&logo=git)
+![LESS](https://img.shields.io/badge/LESS-f5f5f5?style=for-the-badge&logo=less&logoColor=1D365D)
+![Gulp](https://img.shields.io/badge/Gulp-f5f5f5?style=for-the-badge&logo=gulp)
 
 ###### Back-end
-![Strapi](https://img.shields.io/badge/Strapi-f5f5f5?style=for-the-badge&logo=strapi&logoColor=4945FF)  ![GraphQL](https://img.shields.io/badge/GraphQL-f5f5f5?style=for-the-badge&logo=graphql&logoColor=EE1E92)  ![Apollo](https://img.shields.io/badge/Apollo-f5f5f5?style=for-the-badge&logo=apollographql&logoColor=102A47)  
+![Apollo](https://img.shields.io/badge/Apollo-f5f5f5?style=for-the-badge&logo=apollographql&logoColor=102A47)
+![GraphQL](https://img.shields.io/badge/GraphQL-f5f5f5?style=for-the-badge&logo=graphql&logoColor=EE1E92)
+![Strapi](https://img.shields.io/badge/Strapi-f5f5f5?style=for-the-badge&logo=strapi&logoColor=4945FF)
 
 ###### Componentes e testes
-![Storybook](https://img.shields.io/badge/Storybook-f5f5f5?style=for-the-badge&logo=storybook)  ![TestingLibrary](https://img.shields.io/badge/Testing%20Library-f5f5f5?style=for-the-badge&logo=testing-library) ![Cypress](https://img.shields.io/badge/Cypress-f5f5f5?style=for-the-badge&logo=cypress)
+![Cypress](https://img.shields.io/badge/Cypress-f5f5f5?style=for-the-badge&logo=cypress)
+![Jest](https://img.shields.io/badge/Jest-f5f5f5?style=for-the-badge&logo=jest&logoColor=000)
+![Storybook](https://img.shields.io/badge/Storybook-f5f5f5?style=for-the-badge&logo=storybook)
+![TestingLibrary](https://img.shields.io/badge/Testing%20Library-f5f5f5?style=for-the-badge&logo=testing-library)  
 
 ###### DevOps
-![Docker](https://img.shields.io/badge/Docker-f5f5f5?style=for-the-badge&logo=docker)  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-f5f5f5?style=for-the-badge&logo=github-actions) 
+![Docker](https://img.shields.io/badge/Docker-f5f5f5?style=for-the-badge&logo=docker)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-f5f5f5?style=for-the-badge&logo=github-actions) 
 
 ###### Softwares
-![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=for-the-badge&logo=figma) ![Photoshop](https://img.shields.io/badge/Photoshop-f5f5f5?style=for-the-badge&logo=piapro&logoColor=001D34)
+![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/Photoshop-f5f5f5?style=for-the-badge&logo=piapro&logoColor=001D34)
 
 ###### Boas práticas
 ![Acessibilidade](https://img.shields.io/badge/Acessibilidade-f5f5f5?style=for-the-badge)
@@ -35,4 +54,8 @@ Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**
 
 ## Contato
 
-[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-00344a?style=for-the-badge)](https://aleferreinert.vercel.app) [![Currículo](https://img.shields.io/badge/currículo-273849?style=for-the-badge)](https://drive.google.com/file/d/1rl5BEI5eoqREjQUh37iKNULMQAFPRAx0/view)  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:aleferreinert@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleferreinert)  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge)](https://wa.me/5547999558118)  
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-00344a?style=for-the-badge)](https://aleferreinert.vercel.app)
+[![Currículo](https://img.shields.io/badge/currículo-273849?style=for-the-badge)](https://drive.google.com/file/d/1rl5BEI5eoqREjQUh37iKNULMQAFPRAx0/view)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:aleferreinert@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleferreinert)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge)](https://wa.me/5547999558118)  

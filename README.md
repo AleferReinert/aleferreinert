@@ -26,8 +26,9 @@ Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**
 ###### Componentes e testes
 ![Cypress](https://img.shields.io/badge/Cypress-f5f5f5?style=for-the-badge&logo=cypress)
 ![Jest](https://img.shields.io/badge/Jest-f5f5f5?style=for-the-badge&logo=jest&logoColor=000)
+![Maestro](https://img.shields.io/badge/Maestro-f5f5f5?style=for-the-badge&logo=Maestro)
 ![Storybook](https://img.shields.io/badge/Storybook-f5f5f5?style=for-the-badge&logo=storybook)
-![TestingLibrary](https://img.shields.io/badge/Testing%20Library-f5f5f5?style=for-the-badge&logo=testing-library)  
+![TestingLibrary](https://img.shields.io/badge/Testing%20Library-f5f5f5?style=for-the-badge&logo=testing-library)
 
 ###### DevOps
 ![Docker](https://img.shields.io/badge/Docker-f5f5f5?style=for-the-badge&logo=docker)  
@@ -44,13 +45,13 @@ Sou desenvolvedor front-end e trabalho principalmente com **React**, **Next.js**
 ![Responsividade](https://img.shields.io/badge/Responsividade-f5f5f5?style=for-the-badge)
 
 ## Atividades recentes
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=aleferreinert&hide=prs,contribs&show_icons=true&theme=vue&custom_title=Github&locale=pt-br&rank_icon=github) 
+![Estatísticas GitHub](https://github-readme-stats-aleferreinert.vercel.app/api?username=aleferreinert&hide=prs,contribs&show_icons=true&theme=vue&custom_title=Github&locale=pt-br&rank_icon=github) 
 
-![Estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=aleferreinert&theme=vue&locale=pt-br&v=2&custom_title=WakaTime%20(Últimos%207%20dias))
+![Estatísticas do WakaTime](https://github-readme-stats-aleferreinert.vercel.app/api/wakatime?username=aleferreinert&theme=vue&locale=pt-br&v=2&custom_title=WakaTime%20(Últimos%207%20dias))
 
-
+<!--
 [![wakatime](https://wakatime.com/badge/user/38979235-41b3-49f4-8f17-7def5d04f3d2.svg?style=for-the-badge&&v=1)](https://wakatime.com/@38979235-41b3-49f4-8f17-7def5d04f3d2)
-
+-->
 ## Contato
 
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-00344a?style=for-the-badge)](https://aleferreinert.vercel.app)
